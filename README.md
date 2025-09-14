@@ -1,4 +1,4 @@
-# Learning-IA-
+# Learning-IA
 
 My personal journey into Artificial Intelligence and Machine Learning. This repository serves as a collection of projects and experiments as I explore different technologies and concepts in the AI space.
 
@@ -15,6 +15,6 @@ Here are some of the key libraries and frameworks I've been working with:
 
 ## Projects
 
-### ➡️ [LangChain-LangGraph-simple-project]
+### ➡️ LangChain-LangGraph-simple-project
 
 A project of a stateful, multi-step AI agent. This agent can triage user requests and then decide whether to answer them using Retrieval-Augmented Generation (RAG) from a document base, ask for more information, or open a service ticket all decided by a graph structure. 
